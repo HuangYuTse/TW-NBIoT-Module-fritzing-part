@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="136.20239mm"
+   height="67.784126mm"
+   viewBox="0 0 136.20239 67.784123"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="國產NBIoT轉換器_schematic.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="49.672523"
+       y="37.616035"
+       width="41.231224"
+       height="51.147594"
+       id="rect940" />
+    <rect
+       x="90.752083"
+       y="62.885414"
+       width="50.535416"
+       height="33.337502"
+       id="rect857" />
+    <rect
+       x="97.102081"
+       y="65.266663"
+       width="3.96875"
+       height="12.170833"
+       id="rect851" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8117387"
+     inkscape:cx="268.35184"
+     inkscape:cy="192.54482"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1605"
+     inkscape:window-height="1008"
+     inkscape:window-x="299"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.543058,-5.2683857)">
+    <rect
+       style="opacity:0.998;fill:none;stroke:#000000;stroke-width:0.490682;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect24"
+       width="124.50225"
+       height="67.293442"
+       x="34.788399"
+       y="5.5137267" />
+    <text
+       xml:space="preserve"
+       style="font-size:8;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="39.309982"
+       y="42.271774"
+       id="text930"><tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="39.309982"
+         y="42.271774"
+         style="font-size:8;stroke-width:0.264583">國產NBIoT轉換器</tspan></text>
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect981"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="52.535954"
+       inkscape:tile-cx="96.171282"
+       inkscape:tile-cy="14.919001"
+       inkscape:tile-w="11.564999"
+       inkscape:tile-h="0.99999998"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use983"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="67.001663"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use985"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="59.768806"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1011"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="9.1388283"
+       inkscape:tile-cx="96.171282"
+       inkscape:tile-cy="14.919001"
+       inkscape:tile-w="11.564999"
+       inkscape:tile-h="0.99999998"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1013"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="23.604534"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1015"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="16.371681"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1017"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="30.837389"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1019"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="38.070244"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1021"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="45.303101"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.16588"
+       y="54.94791"
+       id="text1109"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1107"
+         x="123.16588"
+         y="54.94791"
+         style="font-size:5;stroke-width:0.264583">MTx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.16588"
+       y="62.174026"
+       id="text1113"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1111"
+         x="123.16588"
+         y="62.174026"
+         style="font-size:5;stroke-width:0.264583">MRx</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.59067"
+       y="69.400139"
+       id="text1117"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1115"
+         x="123.59067"
+         y="69.400139"
+         style="font-size:5;stroke-width:0.264583">5.0v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.37338"
+       y="11.418613"
+       id="text1169"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1167"
+         x="123.37338"
+         y="11.418613"
+         style="font-size:5;stroke-width:0.264583">PSM_EINT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.37338"
+       y="18.64473"
+       id="text1173"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1171"
+         x="123.37338"
+         y="18.64473"
+         style="font-size:5;stroke-width:0.264583">RI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.24643"
+       y="25.870842"
+       id="text1177"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1175"
+         x="123.24643"
+         y="25.870842"
+         style="font-size:5;stroke-width:0.264583">PowEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.16588"
+       y="33.096954"
+       id="text1181"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1179"
+         x="123.16588"
+         y="33.096954"
+         style="font-size:5;stroke-width:0.264583">Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.16588"
+       y="40.323074"
+       id="text1185"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1183"
+         x="123.16588"
+         y="40.323074"
+         style="font-size:5;stroke-width:0.264583">PowKey</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="123.16588"
+       y="47.549194"
+       id="text1189"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1187"
+         x="123.16588"
+         y="47.549194"
+         style="font-size:5;stroke-width:0.264583">GND</tspan></text>
+  </g>
+</svg>
